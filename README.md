@@ -3,6 +3,8 @@
 ![Unity Version](https://img.shields.io/badge/Unity-2022+-blue?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-green)
 
+[![VideoPreview](https://img.shields.io/badge/Watch_on_YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qAKtcW6djc4)
+
 ---
 
 ## English | [Русский](#русский)
