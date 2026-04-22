@@ -66,7 +66,7 @@ You can download the full project source code as a `.unitypackage` in the **[Rel
 Этот проект - полное переписывание оригинальной системы инвентаря с **UnityScript (JavaScript)** на **C#** для **Unity 2022+**
 
 <div align="center">
-  <img src="Screenshot_StalkerInventory.png" alt="Unity Inventory Stalker" width="900">
+  <img src="Screenshot_StalkerInventoryRU.png" alt="UnityInventoryStalker" width="900">
   <br>
   <i>Система инвентаря из S.T.A.L.K.E.R.: Тень Чернобыля — портированная на Unity2022 (C#)</i>
 </div>
